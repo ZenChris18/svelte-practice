@@ -1,3 +1,7 @@
+/* src/app.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* quick test 
+body { outline: 6px solid magenta !important; } visible debugging aid */
