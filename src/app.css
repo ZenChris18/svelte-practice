@@ -4,4 +4,4 @@
 @tailwind utilities;
 
 /* quick test 
-body { outline: 6px solid magenta !important; } visible debugging aid */
+body { outline: 6px solid magenta !important; }/* visible debugging aid */
